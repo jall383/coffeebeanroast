@@ -50,8 +50,9 @@ footer {
 
 #tdpointermode{
     width: 24%;
-	text-align: center
+
 }
+
 
 #uploadImage{
     float:left
@@ -99,4 +100,22 @@ footer {
     left: 495px;
     top: 177px;
     z-index: 0;
+
+}
+#Load-Image{
+    width="15%"
+}
+
+#width-80{
+    width: 80;
+}
+
+#width-20-left{
+    width: 20;
+    text-align: left
+}
+
+Comments{
+    style="width:622px;"
+    text-align: center
 }
